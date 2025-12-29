@@ -1,0 +1,6 @@
+# robots.txt for National Canadian Youth Council
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://ncycouncil.org/sitemap.xml
