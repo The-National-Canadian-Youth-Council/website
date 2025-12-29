@@ -19,11 +19,11 @@ export const metadata: Metadata = {
   authors: [{ name: "National Canadian Youth Council" }],
   creator: "National Canadian Youth Council",
   publisher: "National Canadian Youth Council",
-  metadataBase: new URL("https://ncycouncil.org"),
+  metadataBase: new URL("https://ncyc.vercel.app"),
   openGraph: {
     type: "website",
     locale: "en_CA",
-    url: "https://ncycouncil.org",
+    url: "https://ncyc.vercel.app",
     title: "National Canadian Youth Council | Youth voices shaping youth rights",
     description:
       "Youth-led national platform led by Chair Adil Mukhi, advancing children's and youth rights across Canada through the UN Convention on the Rights of the Child.",

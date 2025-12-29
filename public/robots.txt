@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://ncycouncil.org/sitemap.xml
+Sitemap: https://ncyc.vercel.app/sitemap.xml
